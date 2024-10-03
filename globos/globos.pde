@@ -11,7 +11,7 @@ class Globo
 
   void update()
   {
-    y+=vy;
+    y+=vy+5;
     x+=vx;
   }
 
